@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/adamhmid/midnight-synth-purple-vscode/compare/v1.4.0...v1.5.0) (2024-09-19)
+
+
+### Features
+
+* **theme:** add color for ruby syntax ([00f0ded](https://github.com/adamhmid/midnight-synth-purple-vscode/commit/00f0dedacc2336b8d781eefe3bf08f40321ec317))
+
+# [1.4.0](https://github.com/adamhmid/midnight-synth-purple-vscode/compare/v1.3.0...v1.4.0) (2023-06-05)
+
+
+### Features
+
+* **theme:** add color for php syntax ([2d77510](https://github.com/adamhmid/midnight-synth-purple-vscode/commit/2d77510f26a38b292f30027096905cf60b4be720))
+
 # [1.3.0](https://github.com/adamhmid/midnight-synth-purple-vscode/compare/v1.2.0...v1.3.0) (2023-02-06)
 
 
